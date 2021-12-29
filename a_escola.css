@@ -49,16 +49,18 @@ li{
 main{
     grid-area: main;
     color: #009ACA;
-    text-shadow: black 0.5px 0.5px 1px;
+    text-shadow: rgb(41, 40, 40) 0.5px 0.5px 1px;
 }
 video{
     margin-left: 30px;
     border-radius: 0px 0px 20px 20px;
+    box-shadow: black 1px 1px 3px;
 }
 main div h1{
     text-align: center;
 }
 main div p img{
+    margin-top: 10px;
     margin-left: 30px;
     border: #009ACA 2px solid ;
     border-radius: 10px;
